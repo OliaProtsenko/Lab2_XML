@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Flights>
+  <Flight
+    Number="AUA382"
+    Company="Austrian Airlines"
+    From="Lviv"
+    To="Vienna"
+    Type ="DH8D"
+    Depature="16:00"
+    Arrival="17:45">
+  </Flight>
+  <Flight
+    Number="AUA381"
+    Company="Austrian Airlines"
+    From="Vienna"
+    To="Lviv"
+    Type ="076"
+    Depature="14:05"
+    Arrival="15:20">
+  </Flight>
+  <Flight
+    Number="THY0441"
+    Company="Turkish Airlines"
+    From="Istanbul"
+    To="Lviv"
+    Type ="A321"
+    Depature="07:15"
+    Arrival="09:10">
+  </Flight>
+  <Flight
+    Number="THY0442"
+    Company="Turkish Airlines"
+    From="Lviv"
+    To="Istanbul"
+    Type ="180"
+    Depature="10:00"
+    Arrival="12:00">
+  </Flight>
+  <Flight
+    Number="LOT765"
+    Company="LOT Polish Airlines"
+    From="Warsaw"
+    To="Lviv"
+    Type ="E195"
+    Depature="12:35"
+    Arrival="13:35">
+    </Flight>
+    <Flight
+    Number="LOT766"
+    Company="LOT Polish Airlines"
+    From="Lviv"
+    To="Warsaw"
+    Type ="118"
+    Depature="14:25"
+    Arrival="15:25">
+    </Flight>
+  <Flight
+     Number="LOT763"
+     Company="LOT Polish Airlines"
+     From="Warsaw"
+     To="Lviv"
+     Type ="E195"
+     Depature="16:40"
+     Arrival="17:40">
+  </Flight>
+  <Flight
+   Number="LOT764"
+   Company="LOT Polish Airlines"
+   From="Lviv"
+   To="Warsaw"
+   Type ="118"
+   Depature="18:30"
+   Arrival="19:30">
+  </Flight>
+  <Flight
+   Number="PGT420"
+   Company="Pegasus Airlines"
+   From="Istanbul"
+   To="Lviv"
+   Type ="B738"
+   Depature="16:55"
+   Arrival="18:55">
+  </Flight>
+  <Flight
+   Number="PGT421"
+   Company="Pegasus Airlines"
+   From="Lviv"
+   To="Istanbul"
+   Type ="189"
+   Depature="19:55"
+   Arrival="22:00">
+  </Flight>
+  <Flight
+   Number="PGT1760"
+   Company="Pegasus Airlines"
+   From="Bodrum"
+   To="Lviv"
+   Type ="B738"
+   Depature="23:15"
+   Arrival="01:35">
+  </Flight>
+  <Flight
+   Number="PGT1761"
+   Company="Pegasus Airlines"
+   From="Lviv"
+   To="Bodrum"
+   Type ="189"
+   Depature="02:35"
+   Arrival="04:55">
+  </Flight>
+  <Flight
+   Number="RYR7858"
+   Company="Ryanair"
+   From="Bologna"
+   To="Lviv"
+   Type ="B738"
+   Depature="12:00"
+   Arrival="14:00">
+  </Flight>
+  <Flight
+   Number="RYR7859"
+   Company="Ryanair"
+   From="Lviv"
+   To="Bologna"
+   Type ="189"
+   Depature="14:35"
+   Arrival="16:45">
+  </Flight>
+  <Flight
+  Number="RYR7858"
+  Company="Ryanair"
+  From="Bologna"
+  To="Lviv"
+  Type ="B738"
+  Depature="14:30"
+  Arrival="16:30">
+  </Flight>
+  <Flight
+   Number="RYR7859"
+   Company="Ryanair"
+   From="Lviv"
+   To="Bologna"
+   Type ="189"
+   Depature="17:05"
+   Arrival="19:15">
+  </Flight>
+  <Flight
+  Number="RYR7856"
+  Company="Ryanair"
+  From="Milan Bergamo"
+  To="Lviv"
+  Type ="B738"
+  Depature="11:30"
+  Arrival="13:45">
+  </Flight>
+  <Flight
+   Number="RYR7857"
+   Company="Ryanair"
+   From="Lviv"
+   To="Milan Bergamo"
+   Type ="189"
+   Depature="14:20"
+   Arrival="16:45">
+  </Flight>
+  <Flight
+ Number="RYR7856"
+ Company="Ryanair"
+ From="Milan Bergamo"
+ To="Lviv"
+ Type ="B738"
+ Depature="12:05"
+ Arrival="14:20">
+  </Flight>
+  <Flight
+   Number="RYR7857"
+   Company="Ryanair"
+   From="Lviv"
+   To="Milan Bergamo"
+   Type ="189"
+   Depature="14:55"
+   Arrival="17:20">
+  </Flight>
+  <Flight
+ Number="RYR1642"
+ Company="Ryanair"
+ From="London Stansted"
+ To="Lviv"
+ Type ="B738"
+ Depature="08:40"
+ Arrival="11:20">
+  </Flight>
+  <Flight
+   Number="RYR1643"
+   Company="Ryanair"
+   From="Lviv"
+   To="London Stansted"
+   Type ="189"
+   Depature="11:45"
+   Arrival="14:35">
+  </Flight>
+ 
+  
+</Flights>
